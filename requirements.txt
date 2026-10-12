@@ -1,0 +1,5 @@
+# GUI binding - PySide6 recommended. PySide2 (Qt 5.15) also works if already installed.
+PySide6>=6.5
+
+# only for building the exe
+pyinstaller>=6.0

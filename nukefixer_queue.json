@@ -1,0 +1,161 @@
+{
+ "format": "nukefixer-queue",
+ "version": 1,
+ "saved": "2026-10-12 13:04:15",
+ "items": [
+  {
+   "path": "Z:/BCV_051_EQS/out/packNuke/bc2out/bc2out_260712_2052_0200/A01_EQS_POS_OS_sh005_B/A01_EQS_POS_OS_sh005_B_comp_v002_target.nk",
+   "enabled": true,
+   "status": "done",
+   "message": "saved",
+   "size": 137466,
+   "mtime": 1791798059.1064167,
+   "duration": 1.3406565189361572,
+   "finished_at": 1791802887.3899167,
+   "saved": true
+  },
+  {
+   "path": "Z:/BCV_051_EQS/out/packNuke/bc2out/bc2out_260712_2052_0200/A02_EQS_POS_OS_sh004/A02_EQS_POS_OS_sh004_comp_v003_target.nk",
+   "enabled": true,
+   "status": "done",
+   "message": "saved",
+   "size": 199694,
+   "mtime": 1783889745.9361405,
+   "duration": 1.1160688400268555,
+   "finished_at": 1791802888.50099,
+   "saved": true
+  },
+  {
+   "path": "Z:/BCV_051_EQS/out/packNuke/bc2out/bc2out_260712_2052_0200/A03_EQS_POS_OS_sh005/A03_EQS_POS_OS_sh005_comp_v004_target.nk",
+   "enabled": true,
+   "status": "done",
+   "message": "saved",
+   "size": 206459,
+   "mtime": 1783889788.6175864,
+   "duration": 1.1388635635375977,
+   "finished_at": 1791802889.7048535,
+   "saved": true
+  },
+  {
+   "path": "Z:/BCV_051_EQS/out/packNuke/bc2out/bc2out_260712_2052_0200/A04_EQS_POS_OS_MainFilm_sh006/A04_EQS_POS_OS_MainFilm_sh006_comp_v002_target.nk",
+   "enabled": true,
+   "status": "done",
+   "message": "saved",
+   "size": 159615,
+   "mtime": 1783889792.7308514,
+   "duration": 0.9644393920898438,
+   "finished_at": 1791802890.696818,
+   "saved": true
+  },
+  {
+   "path": "Z:/BCV_051_EQS/out/packNuke/bc2out/bc2out_260712_2052_0200/A05_EQS_POS_OS_MainFilm_sh022/A05_EQS_POS_OS_MainFilm_sh022_comp_v004_target.nk",
+   "enabled": true,
+   "status": "done",
+   "message": "saved",
+   "size": 166766,
+   "mtime": 1783889788.6027315,
+   "duration": 0.7416634559631348,
+   "finished_at": 1791802891.352957,
+   "saved": true
+  },
+  {
+   "path": "Z:/BCV_051_EQS/out/packNuke/bc2out/bc2out_260712_2052_0200/A06_EQS_POS_OS_sh004_B/A06_EQS_POS_OS_sh004_B_comp_v005_target.nk",
+   "enabled": true,
+   "status": "done",
+   "message": "saved",
+   "size": 214781,
+   "mtime": 1783889863.8803024,
+   "duration": 1.9504919052124023,
+   "finished_at": 1791802893.3304489,
+   "saved": true
+  },
+  {
+   "path": "Z:/BCV_051_EQS/out/packNuke/bc2out/bc2out_260712_2052_0200/A07_EQS_POS_ROB_sh015/A07_EQS_POS_ROB_sh015_comp_v002_target.nk",
+   "enabled": true,
+   "status": "done",
+   "message": "saved",
+   "size": 152485,
+   "mtime": 1783889839.5800104,
+   "duration": 0.8470227718353271,
+   "finished_at": 1791802894.206475,
+   "saved": true
+  },
+  {
+   "path": "Z:/BCV_051_EQS/out/packNuke/bc2out/bc2out_260712_2052_0200/A08_EQS_POS_ROB_sh012/A08_EQS_POS_ROB_sh012_comp_v003_target.nk",
+   "enabled": true,
+   "status": "done",
+   "message": "saved",
+   "size": 166719,
+   "mtime": 1783889842.647634,
+   "duration": 1.3736531734466553,
+   "finished_at": 1791802887.5149207,
+   "saved": true
+  },
+  {
+   "path": "Z:/BCV_051_EQS/out/packNuke/bc2out/bc2out_260712_2052_0200/A09_EQS_POS_ROB_sh011/A09_EQS_POS_ROB_sh011_comp_v003_target.nk",
+   "enabled": true,
+   "status": "done",
+   "message": "saved",
+   "size": 210394,
+   "mtime": 1783889901.4495482,
+   "duration": 1.1150691509246826,
+   "finished_at": 1791802888.6119902,
+   "saved": true
+  },
+  {
+   "path": "Z:/BCV_051_EQS/out/packNuke/bc2out/bc2out_260712_2052_0200/A10_EQS_POS_ROB_sh014/A10_EQS_POS_ROB_sh014_comp_v001_target.nk",
+   "enabled": true,
+   "status": "done",
+   "message": "saved",
+   "size": 200317,
+   "mtime": 1783889918.000811,
+   "duration": 0.851830005645752,
+   "finished_at": 1791802889.4868553,
+   "saved": true
+  },
+  {
+   "path": "Z:/BCV_051_EQS/out/packNuke/bc2out/bc2out_260712_2052_0200/A11_EQS_POS_OS_sh007/A11_EQS_POS_OS_sh007_comp_v001_target.nk",
+   "enabled": true,
+   "status": "done",
+   "message": "saved",
+   "size": 203667,
+   "mtime": 1783889936.7363536,
+   "duration": 1.109483003616333,
+   "finished_at": 1791802890.5842974,
+   "saved": true
+  },
+  {
+   "path": "Z:/BCV_051_EQS/out/packNuke/bc2out/bc2out_260712_2052_0200/A12_EQS_POS_OS_sh002_B/A12_EQS_POS_OS_sh002_B_comp_v001_target.nk",
+   "enabled": true,
+   "status": "done",
+   "message": "saved",
+   "size": 205137,
+   "mtime": 1783889972.8774807,
+   "duration": 1.0056571960449219,
+   "finished_at": 1791802891.5719554,
+   "saved": true
+  },
+  {
+   "path": "Z:/BCV_051_EQS/out/packNuke/bc2out/bc2out_260712_2052_0200/A13_EQS_POS_ROB_sh014_B/A13_EQS_POS_ROB_sh014_B_comp_v004_target.nk",
+   "enabled": true,
+   "status": "done",
+   "message": "saved",
+   "size": 188393,
+   "mtime": 1783889943.279961,
+   "duration": 1.595494270324707,
+   "finished_at": 1791802893.2194517,
+   "saved": true
+  },
+  {
+   "path": "Z:/BCV_051_EQS/out/packNuke/bc2out/bc2out_260712_2052_0200/A14_EQS_ROB_MainFilm_sh030/A14_EQS_ROB_MainFilm_sh030_comp_v003_target.nk",
+   "enabled": true,
+   "status": "done",
+   "message": "saved",
+   "size": 234288,
+   "mtime": 1783890115.3398921,
+   "duration": 1.3790688514709473,
+   "finished_at": 1791802894.5405195,
+   "saved": true
+  }
+ ]
+}

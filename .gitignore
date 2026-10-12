@@ -122,3 +122,10 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# --- NukeFixer
+!NukeFixer.spec
+settings.ini
+last_queue.json
+NukeFixer.log*
+*.safecopy
