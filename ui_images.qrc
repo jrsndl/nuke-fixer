@@ -1,0 +1,19 @@
+<RCC>
+  <qresource>
+    <file>images/down_arrow.png</file>
+    <file>images/up_arrow.png</file>
+    <file>images/checkbox_checked.png</file>
+    <file>images/checkbox_disabled.png</file>
+    <file>images/folder.png</file>
+    <file>images/emblem-system.png</file>
+    <file>images/utilities-terminal.png</file>
+    <file>images/video-x-generic.png</file>
+    <file>images/system-search.png</file>
+    <file>images/checkbox.png</file>
+    <file>images/handle.png</file>
+    <file>images/down_arrow.png</file>
+    <file>images/up_arrow.png</file>
+    <file>images/media-playback-start.png</file>
+    <file>images/video-queue.png</file>
+  </qresource>
+</RCC>

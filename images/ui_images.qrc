@@ -1,0 +1,16 @@
+<RCC>
+  <qresource prefix="images">
+    <file>checkbox_checked.png</file>
+    <file>down_arrow.png</file>
+    <file>emblem-system.png</file>
+    <file>folder.png</file>
+    <file>handle.png</file>
+    <file>media-playback-start.png</file>
+    <file>system-search.png</file>
+    <file>ui_images.qrc</file>
+    <file>up_arrow.png</file>
+    <file>utilities-terminal.png</file>
+    <file>video-x-generic.png</file>
+    <file>checkbox.png</file>
+  </qresource>
+</RCC>
